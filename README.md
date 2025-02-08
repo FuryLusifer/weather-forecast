@@ -50,7 +50,7 @@ mvn exec:java -Dexec.mainClass="com.weatherapp.weatherGUI"
 
 The app uses the OpenWeather API to fetch weather data. The API key is required for the app to function.
 
-- API Key: 0792b103f3dbd166e6f43a5d5c01ae74
+- API Key: *******************
 - API URL: https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
 You can replace the API key in the weatherService.java file if necessary.
 ## Contributing
